@@ -1,2 +1,2 @@
-# potentialacademicdatabases
-exploring databases within and outside my field (psychology)
+# Resources for CS
+  https://cran.r-project.org/web/packages/psych/psych.pdf
