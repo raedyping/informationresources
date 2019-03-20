@@ -1,4 +1,6 @@
 # Resources for CS
+### R for Dummies
+ <a href=https://www.dummies.com/programming/r/> I refer to this, especially with data manipulation</a>
 
 ### package 'psych'
  <a href=https://cran.r-project.org/web/packages/psych/psych.pdf> full manual for psych package </a>
