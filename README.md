@@ -27,6 +27,9 @@
   
 ### data scraping
   <a href=https://www.scrapehero.com/tutorial-how-to-scrape-amazon-product-details-using-python/> scraping Amazon with python</a>
+
+### PostgreSQL
+  <a href=https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-A4.pdf> postgresql manual </a>
   
 # Open Science
 
