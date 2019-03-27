@@ -1,4 +1,10 @@
 # Resources for CS
+### R Markdown
+ <a href=https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf> R markdown cheat sheet </a>
+ <a href=https://bookdown.org/yihui/rmarkdown/> Rmarkdown total guide</a>
+ <a href=
+ <a href=https://yihui.name/knitr/options/KnitR> knitr options</a>
+
 ### R for Dummies
  <a href=https://www.dummies.com/programming/r/> I refer to this, especially with data manipulation</a>
 
@@ -18,9 +24,7 @@
  
 ### package 'lavaan'
  <a href=https://cran.r-project.org/web/packages/lavaan/lavaan.pdf>full manual for lavaan package </a>
-
-### R markdown
-  <a href=https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf> R markdown cheat sheet </a>
+ 
 
 ### using git with R
   <a href=https://happygitwithr.com/> Happy Git with R </a>
