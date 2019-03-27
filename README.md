@@ -1,4 +1,7 @@
 # Resources for CS
+### Every possible R textbook
+<a href=https://bookdown.org/> Bookdown.org</a>
+
 ### R Markdown
  <a href=https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf> R markdown cheat sheet </a>
  <a href=https://bookdown.org/yihui/rmarkdown/> Rmarkdown total guide</a>
@@ -24,7 +27,9 @@
  
 ### package 'lavaan'
  <a href=https://cran.r-project.org/web/packages/lavaan/lavaan.pdf>full manual for lavaan package </a>
- 
+
+### package 'mice'
+ <a href=https://cran.r-project.org/web/packages/mice/mice.pdf> full manual for mice package</a>
 
 ### using git with R
   <a href=https://happygitwithr.com/> Happy Git with R </a>
