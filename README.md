@@ -43,12 +43,11 @@
 # Open Science
 
 ### Datasets 
-  <a href=http://www.pewresearch.org/download-datasets/>Pew Research </a>
-  <a href=https://data.cityofchicago.org/>City of Chicago</a>
-  <a href=https://cps.edu/SchoolData/Pages/SchoolData.aspx>Chicago Public Schools </a>
-
-### publications
- 
+  <a href=http://www.pewresearch.org/download-datasets/>Pew Research </a>  
+  <a href=https://data.cityofchicago.org/>City of Chicago</a>  
+  <a href=https://cps.edu/SchoolData/Pages/SchoolData.aspx>Chicago Public Schools </a>  
+  <a href=https://opendatahandbook.org>Open Data Handbook (UK)</a>  
+  <a href=http://v2.sherpa.ac.uk/opendoar/>OpenDOAR </a>  
 
 # Collecting Data
 
