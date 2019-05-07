@@ -5,7 +5,6 @@
 ### R Markdown
  <a href=https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf> R markdown cheat sheet </a>
  <a href=https://bookdown.org/yihui/rmarkdown/> Rmarkdown total guide</a>
- <a href=
  <a href=https://yihui.name/knitr/options/KnitR> knitr options</a>
 
 ### R for Dummies
