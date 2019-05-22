@@ -39,12 +39,6 @@
   
 # Working with Big Data 
   <a href=https://nuitrcs.github.io/working-with-large-datasets-workshop/>NUIT Big Data Workshop</a>  
-  
-  
-  
-  
- <a href=https://sites.northwestern.edu/summerworkshops/workshop-schedule/>NU summer workshops</a>  
- <a href=https://www.it.northwestern.edu/research/consultation/data-services.html>NU Research Computing Services consults</a>
   <a href=https://www.rstudio.com/resources/webinars/working-with-big-data-in-r/>Big Data in R</a>  
 
 # Open Science
@@ -65,3 +59,6 @@
  <a href=https://requester.mturk.com>mturk</a>
 
   
+# Northwestern Research Computing
+<a href=https://sites.northwestern.edu/summerworkshops/workshop-schedule/>NU summer workshops</a>  
+<a href=https://www.it.northwestern.edu/research/consultation/data-services.html>NU Research Computing Services consults</a>  
