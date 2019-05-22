@@ -1,6 +1,5 @@
 # Data Analysis (R)
 
-### Every possible R textbook
 <a href=https://bookdown.org/>Every possible R textbook</a>  
 <a href=https://www.dummies.com/programming/r/> R for Dummies</a>  
 
