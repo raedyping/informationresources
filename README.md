@@ -1,15 +1,13 @@
-# Data Analysis Resources (R)
+# Data Analysis (R)
 
 ### Every possible R textbook
-<a href=https://bookdown.org/> Bookdown.org</a>
+<a href=https://bookdown.org/>Every possible R textbook</a>  
+<a href=https://www.dummies.com/programming/r/> R for Dummies</a>  
 
 ### R Markdown
  <a href=https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf> R markdown cheat sheet </a>  
  <a href=https://bookdown.org/yihui/rmarkdown/> Rmarkdown total guide</a>  
  <a href=https://yihui.name/knitr/options/KnitR> knitr options</a>  
-
-### R for Dummies
- <a href=https://www.dummies.com/programming/r/> I refer to this, especially with data manipulation</a>
 
 ### package 'psych'
  <a href=https://cran.r-project.org/web/packages/psych/psych.pdf> full manual for psych package </a>
@@ -34,13 +32,19 @@
 ### using git with R
   <a href=https://happygitwithr.com/> Happy Git with R </a>
 
-# Data Querying Resources
+# Data Querying 
   <a href=https://aws.amazon.com/athena/>Amazon Athena</a>  
   <a href=https://cloud.google.com/bigquery/>Google BigQuery</a>  
   <a href=https://www.postgresql.org/files/documentation/pdf/11/postgresql-11-A4.pdf> postgresql manual </a> 
   
-### Working with Big Data 
+# Working with Big Data 
   <a href=https://nuitrcs.github.io/working-with-large-datasets-workshop/>NUIT Big Data Workshop</a>  
+  
+  
+  
+  
+ <a href=https://sites.northwestern.edu/summerworkshops/workshop-schedule/>NU summer workshops</a>  
+ <a href=https://www.it.northwestern.edu/research/consultation/data-services.html>NU Research Computing Services consults</a>
   <a href=https://www.rstudio.com/resources/webinars/working-with-big-data-in-r/>Big Data in R</a>  
 
 # Open Science
@@ -59,6 +63,5 @@
 
 ### mturk
  <a href=https://requester.mturk.com>mturk</a>
-
 
   
