@@ -28,9 +28,6 @@
 ### package 'mice'
  <a href=https://cran.r-project.org/web/packages/mice/mice.pdf> full manual for mice package</a>
 
-### using git with R
-  <a href=https://happygitwithr.com/> Happy Git with R </a>
-
 # Data Querying 
   <a href=https://aws.amazon.com/athena/>Amazon Athena</a>  
   <a href=https://cloud.google.com/bigquery/>Google BigQuery</a>  
@@ -57,7 +54,14 @@
 ### mturk
  <a href=https://requester.mturk.com>mturk</a>
 
-  
+# Version Control
+
+### git
+<a href= http://swcarpentry.github.io/git-novice/> Intro from Software Carpentry </a>
+
+### using git with R
+  <a href=https://happygitwithr.com/> Happy Git with R </a>
+
 # Northwestern Research Computing
 <a href=https://sites.northwestern.edu/summerworkshops/workshop-schedule/>NU summer workshops</a>  
 <a href=https://www.it.northwestern.edu/research/consultation/data-services.html>NU Research Computing Services consults</a>  
