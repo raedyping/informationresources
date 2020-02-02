@@ -86,7 +86,7 @@ note: i didn't write these, they are resources that other people created. i just
 <a href = https://desiree.rbind.io/post/2020/learnr-iframes/> these look amazing and there's also a very cute cute r tutorial by this developer</a>
 
 ### fundamentals of data visualization
-<a href = https://serialmentor.com/dataviz/>claus wilke's full book, this is a basic staple for me </a>
+<a href = https://serialmentor.com/dataviz/>claus wilke's book</a>
 
 ### usethis for reproducible reporting
 <a href = https://sharla.party/post/usethis-for-reporting/>i'm completely blown away by this</a>
@@ -125,7 +125,7 @@ overview from rconf2020: <a href = https://www.slideshare.net/ClausWilke/spruce-
 < a href = https://indrajeetpatil.github.io/ggstatsplot/>add stats details to your ggplots!</a>
 
 ### esquisse
-<a href = https://dreamrs.github.io/esquisse/>a drag and drop gui to quickly do ggplots--haven't tried it yet but i love it </a>
+<a href = https://dreamrs.github.io/esquisse/>a drag and drop gui for fast ggplot</a> (also see ggplotgui)
 
 ### modern dive into r and the tidyverse
 <a href = https://moderndive.com/>modern dive webbook</a>
@@ -149,3 +149,4 @@ overview from rconf2020: <a href = https://www.slideshare.net/ClausWilke/spruce-
 https://r4ds.had.co.nz/index.html
 https://rstats.wtf/save-source.html
 http://vita.had.co.nz/papers/layered-grammar.pdf
+http://had.co.nz/thesis/practical-tools-hadley-wickham.pdf
