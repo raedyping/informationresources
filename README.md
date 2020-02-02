@@ -145,3 +145,7 @@ overview from rconf2020: <a href = https://www.slideshare.net/ClausWilke/spruce-
 
 ### women in data science conference
 <a href = https://www.kaggle.com/c/widsdatathon2020/>wids datathon on kaggle</a>(due feb 24, and event is march 2 2020; chicago event is march 6)
+
+https://r4ds.had.co.nz/index.html
+https://rstats.wtf/save-source.html
+http://vita.had.co.nz/papers/layered-grammar.pdf
