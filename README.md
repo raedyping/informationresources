@@ -155,3 +155,5 @@ https://rpubs.com/Reinhold/391027
 https://cran.r-project.org/web/packages/emmeans/vignettes/comparisons.html
 https://mongodb.com
 http://jenrichmond.rbind.io/post/how-to-use-the-here-package/
+
+https://www.datascienceatthecommandline.com/
