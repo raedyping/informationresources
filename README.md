@@ -12,6 +12,10 @@ note: i didn't write these, they are resources that other people created. i just
 
 ### package 'psych'
  <a href=https://cran.r-project.org/web/packages/psych/psych.pdf> full manual for psych package </a>
+ <a href=https://www.personality-project.org/r/> Using R for psychological research</a>
+ <a href=http://personality-project.org/r/psych/>Using R and psych for personality and psychological research</a>
+<a href=http://personality-project.org/r/psych/help/00Index.html>search for help or browse all psych functions</a>
+<a href=http://personality-project.org/readings-measurement.html>Psychometrics and Personality Assessment</a>
 
 ### package 'ggplot2'
   <a href=https://ggplot2.tidyverse.org/> ggplot2 cheat sheet </a>  
