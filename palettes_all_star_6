@@ -5,13 +5,13 @@ I am creating ten-color palettes for ggplot2 based on RPDR Season 6 All Stars. P
 visit: https://docs.google.com/presentation/d/17niOugTCioESlxA-LJp_7PYB1QOmxNhUmZaiGHOYjI0/
 
 
-Episode 1
+# Episode 1
 
-On the top:
+## On the top:
   Yara Sofia
     umm... idk if im gonna do this one
   
-Got the chop:
+## Got the chop:
   Serena Cha Cha
     A discontinuous palette heavy on blues and violets
     
@@ -28,11 +28,60 @@ Got the chop:
 
 serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1BE89", "#D45040", "#6FBDD8", "#523E6A", "#BD8080") 
 
-Lip Sync Assassin: 
+## Lip Sync Assassin: 
  Coco Montrese
     Dripping in silver perfection
 
 
+# Episode 2
+
+## On the top:
+  Ra'Jah O'Hara
+    high fashion haute couture structured bolero excellence
+    <https://rupaulsdragrace.fandom.com/wiki/Ra%27Jah_O%27Hara?file=Ra%2527JahBlueBonanzaLook.jpg>
+    
+    It is the Blue Ball, so this palette is blue. Sorry, just blue.
+ 
+#1B1485		  WIG					    RGB(27, 20, 133)		“PERSIAN INDIGO VIOLET”
+#5265C2		  WIG					    RGB(82, 101, 194)		“FREE SPEECH BLUE”
+#698EBD	    LIP					    RGB(105, 142, 189)	“SHAKESPEARE BLUE”
+#5B519A		  JACKET				  RGB(81, 81, 154)		“GOVERNOR BAY BLUE”
+#6C4DAB	    BODICE				  RGB(108, 77, 171)		“STUDIO VIOLET”
+#D085DF	    SKIRT				    RGB(208, 133, 223)	“WISTERIA VIOLET”
+#620FCB	    BOOT				    RGB(98, 15, 203)		“HAN PURPLE VIOLET”
+#1B5963		  BOOT				    RGB(27, 89, 99)		  “BLUE STONE GREEN”
+#DAED94   	REFLECTIVE SUIT	RGB(218, 237, 148)	“REEF GREEN”
+#8E95AC	    REFLECTIVE SUIT	RGB(142, 149, 172)	“MANATEE BLUE”
+
+ra_jah_o_hara <- c("#1B1485", "#5265C2", "#698EBD", "#5B519A", "#6C4DAB", "#D085DF", "#1B5963", "#DAED94", "#8E95AC")
+    
+## Got the chop:
+  Jiggly Caliente
+  
+#Lip Sync Assassin:
+  Brook Lynn Heights
+
+# Episode 3
+
+## On the top:
+
+## Got the chop
+
+## Lip sync assassin
+
+#Episode 4
+
+## On the top:
+
+## Got the chop:
+
+## Lip Synch Assassin
 
 
 
+
+
+
+
+sources:
+https://rupaulsdragrace.fandom.com/wiki/RuPaul%27s_Drag_Race_Wiki
