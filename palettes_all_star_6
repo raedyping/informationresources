@@ -9,7 +9,6 @@ visit: https://docs.google.com/presentation/d/17niOugTCioESlxA-LJp_7PYB1QOmxNhUm
 
 ## On the top:
   Yara Sofia
-    umm... idk if im gonna do this one
   
 ## Got the chop:
   Serena Cha Cha
@@ -61,24 +60,64 @@ ra_jah_o_hara <- c("#1B1485", "#5265C2", "#698EBD", "#5B519A", "#6C4DAB", "#D085
 #Lip Sync Assassin:
   Brook Lynn Heights
 
+
+
 # Episode 3
 
-## On the top:
+## On the top: 
+  Trinity K. Bonet
+  
+  
+ #17002D		WIG					RGB(23, 0, 45)		“PRUSSIAN BLUE”
+#B42C85		LIP					RGB(180, 44, 133)		“MEDIUM RED VIOLET”
+#D39A9D	COLLAR				RGB(211, 154, 157)	“ROSE RED”
+#FA9ED6	JACKET				RGB(250, 158, 214)	“LAVENDER ROSE RED”
+#9579CA		JACKET				RGB(149, 121, 202)	“TRUE VIOLET”
+#7FB7C1 	BELT				RGB(127, 183, 193) 	“GLACIER BLUE”
+#5C4899		SUIT				RGB(92, 72, 153)		“DAISY BUSH VIOLET”
+#FCECFF	BUCKLE				RGB(252, 236, 255)	“MAGNOLIA WHITE”
+#7B98EF		TIGHTS				RGB(123, 152, 239)	“CORNFLOWER BLUE”
+#9E10B6		BOOT				RGB(158, 16, 182)		“DARK VIOLET”
 
-## Got the chop
 
-## Lip sync assassin
+SOURCES:
+
+https://www.color-blindness.com/color-name-hue/
+https://static.wikia.nocookie.net/logosrupaulsdragrace/images/8/8d/TrinityEpisode3LipSyncLook.jpg/revision/latest?cb=20210708010826
+
+trinity_k_bonet <- c("#17002D", "#B42C85", "#D39A9D", "#FA9ED6", "#9579CA", "#7FB7C1", "#5C4899", "#FCECFF", "#7B98EF", "#9E10B6")
+
+
+## Got the chop: 
+  Silky Nutmeg Ganache
+
+## Lip sync assassin:
+  Laganja Estranja
+
+
+
 
 #Episode 4
 
 ## On the top:
+  Jan
+  
+## Got the chop:
+  Yara Sofia
+  
+## Lip Synch Assassin
+  Jessica Wild
+  
+  
+#Episode 5
+
+## On the top:
+  Ginger Minj
 
 ## Got the chop:
+  Scarlet Envy
 
 ## Lip Synch Assassin
-
-
-
 
 
 
