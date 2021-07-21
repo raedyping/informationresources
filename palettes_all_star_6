@@ -1,8 +1,10 @@
 !!!!!!!!!!!!!!!!!!SPOILER ALERT!!!!!!!!!!!!!!!!!
 
-I am creating ten-color palettes for ggplot2 based on RPDR Season 6 All Stars. Please note, these palettes are not accessible, advisable, or useable.
-
 visit: https://docs.google.com/presentation/d/17niOugTCioESlxA-LJp_7PYB1QOmxNhUmZaiGHOYjI0/
+
+I am creating ten-color palettes for ggplot2 based on RPDR Season 6 All Stars. Please note, these palettes are not accessible, advisable, or useable. 
+
+serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1BE89", "#D45040", "#6FBDD8", "#523E6A", "#BD8080") 
 
 
 # Episode 1
@@ -14,16 +16,16 @@ visit: https://docs.google.com/presentation/d/17niOugTCioESlxA-LJp_7PYB1QOmxNhUm
   Serena Cha Cha
     A discontinuous palette heavy on blues and violets
     
-#E13EB7   WIG&#09;RGB(225, 62, 183)&#09;“FREE SPEECH MAGENTA”
-#D22567   LIPSTICK&#09;RGB(210, 37, 103)&#09;“CERISE VIOLET”
-#43669A   SLEEVE		RGB(67, 102, 154)		“MARINER BLUE”
-#322881   BODICE	RGB(50, 40, 129)		“WINDSOR VIOLET”
-#529B97   BODICE 	RGB(82, 155, 151)		“HALF BAKED BLUE”
-#F1BE89   BODICE 	RGB(241, 190, 137)	“MANDY’S PINK ORANGE”
-#D45040   GLOVE 		RGB(82, 62, 106)		“VALENCIA RED”
-#6FBDD8   PEPLUM 		RGB(111, 189, 216)	“SPRAY BLUE”
-#523E6A   BOOT 		RGB(82, 62, 106)		“METEORITE VIOLET”
-#BD8080   BOOT 		RGB(189, 128, 128)	“BRANDY ROSE RED”
+#E13EB7   WIG        RGB(225, 62, 183)    “FREE SPEECH MAGENTA”
+#D22567   LIPSTICK   RGB(210, 37, 103)    “CERISE VIOLET”
+#43669A   SLEEVE     RGB(67, 102, 154)    “MARINER BLUE”
+#322881   BODICE     RGB(50, 40, 129)     “WINDSOR VIOLET”
+#529B97   BODICE     RGB(82, 155, 151)    “HALF BAKED BLUE”
+#F1BE89   BODICE     RGB(241, 190, 137)   “MANDY’S PINK ORANGE”
+#D45040   GLOVE      RGB(82, 62, 106)     “VALENCIA RED”
+#6FBDD8   PEPLUM     RGB(111, 189, 216)   “SPRAY BLUE”
+#523E6A   BOOT       RGB(82, 62, 106)     “METEORITE VIOLET”
+#BD8080   BOOT       RGB(189, 128, 128)   “BRANDY ROSE RED”
 
 serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1BE89", "#D45040", "#6FBDD8", "#523E6A", "#BD8080") 
 
