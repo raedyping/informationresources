@@ -6,6 +6,7 @@ I am creating ten-color palettes for ggplot2 based on RPDR Season 6 All Stars. P
 
 serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1BE89", "#D45040", "#6FBDD8", "#523E6A", "#BD8080") 
 
+------------------------------------------------------------------------------------
 
 # Episode 1
 
@@ -33,6 +34,7 @@ serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1B
  Coco Montrese
     Dripping in silver perfection
 
+------------------------------------------------------------------------------------
 
 # Episode 2
 
@@ -41,7 +43,7 @@ serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1B
     high fashion haute couture structured bolero excellence
     <https://rupaulsdragrace.fandom.com/wiki/Ra%27Jah_O%27Hara?file=Ra%2527JahBlueBonanzaLook.jpg>
     
-    It is the Blue Ball, so this palette is blue. Sorry, just blue.
+    It is the Blue Ball, so this palette is blue.
  
 #1B1485		  WIG					    RGB(27, 20, 133)		“PERSIAN INDIGO VIOLET”
 #5265C2		  WIG					    RGB(82, 101, 194)		“FREE SPEECH BLUE”
@@ -62,7 +64,7 @@ ra_jah_o_hara <- c("#1B1485", "#5265C2", "#698EBD", "#5B519A", "#6C4DAB", "#D085
 #Lip Sync Assassin:
   Brook Lynn Heights
 
-
+------------------------------------------------------------------------------------
 
 # Episode 3
 
@@ -97,7 +99,7 @@ trinity_k_bonet <- c("#17002D", "#B42C85", "#D39A9D", "#FA9ED6", "#9579CA", "#7F
   Laganja Estranja
 
 
-
+------------------------------------------------------------------------------------
 
 #Episode 4
 
@@ -110,7 +112,8 @@ trinity_k_bonet <- c("#17002D", "#B42C85", "#D39A9D", "#FA9ED6", "#9579CA", "#7F
 ## Lip Synch Assassin
   Jessica Wild
   
-  
+------------------------------------------------------------------------------------
+
 #Episode 5
 
 ## On the top:
