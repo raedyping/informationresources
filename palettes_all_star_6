@@ -3,8 +3,16 @@
 visit: https://docs.google.com/presentation/d/17niOugTCioESlxA-LJp_7PYB1QOmxNhUmZaiGHOYjI0/
 
 I am creating ten-color palettes for ggplot2 based on RPDR Season 6 All Stars. Please note, these palettes are not accessible, advisable, or useable. 
+I selected my favorite of the week based on: the top, the chop, the lipsynch assassin
 
-serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1BE89", "#D45040", "#6FBDD8", "#523E6A", "#BD8080") 
+```{r palettes}
+serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1BE89", "#D45040", "#6FBDD8", "#523E6A", "#BD8080")
+ra_jah_o_hara <- c("#1B1485", "#5265C2", "#698EBD", "#5B519A", "#6C4DAB", "#D085DF", "#620FCB", "#1B5963", "#DAED94", "#8E95AC")
+trinity_k_bonet <- c("#17002D", "#B42C85", "#D39A9D", "#FA9ED6", "#9579CA", "#7FB7C1", "#5C4899", "#FCECFF", "#7B98EF", "#9E10B6")
+
+
+rpdr_allstar_s6 <- c(serena_cha_cha, ra_jah_o_hara, trinity_k_bonet)
+```
 
 ------------------------------------------------------------------------------------
 
@@ -18,7 +26,7 @@ serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1B
     A discontinuous palette heavy on blues and violets
     
 #E13EB7   WIG        RGB(225, 62, 183)    “FREE SPEECH MAGENTA”
-#D22567   LIPSTICK   RGB(210, 37, 103)    “CERISE VIOLET”
+#D22567   LIP        RGB(210, 37, 103)    “CERISE VIOLET”
 #43669A   SLEEVE     RGB(67, 102, 154)    “MARINER BLUE”
 #322881   BODICE     RGB(50, 40, 129)     “WINDSOR VIOLET”
 #529B97   BODICE     RGB(82, 155, 151)    “HALF BAKED BLUE”
@@ -45,18 +53,18 @@ serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1B
     
     It is the Blue Ball, so this palette is blue.
  
-#1B1485		  WIG					    RGB(27, 20, 133)		“PERSIAN INDIGO VIOLET”
-#5265C2		  WIG					    RGB(82, 101, 194)		“FREE SPEECH BLUE”
-#698EBD	    LIP					    RGB(105, 142, 189)	“SHAKESPEARE BLUE”
-#5B519A		  JACKET				  RGB(81, 81, 154)		“GOVERNOR BAY BLUE”
-#6C4DAB	    BODICE				  RGB(108, 77, 171)		“STUDIO VIOLET”
-#D085DF	    SKIRT				    RGB(208, 133, 223)	“WISTERIA VIOLET”
-#620FCB	    BOOT				    RGB(98, 15, 203)		“HAN PURPLE VIOLET”
-#1B5963		  BOOT				    RGB(27, 89, 99)		  “BLUE STONE GREEN”
-#DAED94   	REFLECTIVE SUIT	RGB(218, 237, 148)	“REEF GREEN”
-#8E95AC	    REFLECTIVE SUIT	RGB(142, 149, 172)	“MANATEE BLUE”
+#1B1485    WIG        RGB(27, 20, 133)    “PERSIAN INDIGO VIOLET”
+#5265C2    WIG        RGB(82, 101, 194)   “FREE SPEECH BLUE”
+#698EBD    LIP        RGB(105, 142, 189)  “SHAKESPEARE BLUE”
+#5B519A    JACKET     RGB(81, 81, 154)    “GOVERNOR BAY BLUE”
+#6C4DAB    BODICE     RGB(108, 77, 171)   “STUDIO VIOLET”
+#D085DF    SKIRT      RGB(208, 133, 223)  “WISTERIA VIOLET”
+#620FCB    BOOT       RGB(98, 15, 203)    “HAN PURPLE VIOLET”
+#1B5963    BOOT       RGB(27, 89, 99)     “BLUE STONE GREEN”
+#DAED94    SUIT       RGB(218, 237, 148)  “REEF GREEN”
+#8E95AC    SUIT       RGB(142, 149, 172)  “MANATEE BLUE”
 
-ra_jah_o_hara <- c("#1B1485", "#5265C2", "#698EBD", "#5B519A", "#6C4DAB", "#D085DF", "#1B5963", "#DAED94", "#8E95AC")
+ra_jah_o_hara <- c("#1B1485", "#5265C2", "#698EBD", "#5B519A", "#6C4DAB", "#D085DF", "#620FCB", "#1B5963", "#DAED94", "#8E95AC")
     
 ## Got the chop:
   Jiggly Caliente
@@ -70,34 +78,26 @@ ra_jah_o_hara <- c("#1B1485", "#5265C2", "#698EBD", "#5B519A", "#6C4DAB", "#D085
 
 ## On the top: 
   Trinity K. Bonet
+    Pastel leather for spring time, youthful and fun
   
-  
- #17002D		WIG					RGB(23, 0, 45)		“PRUSSIAN BLUE”
-#B42C85		LIP					RGB(180, 44, 133)		“MEDIUM RED VIOLET”
-#D39A9D	COLLAR				RGB(211, 154, 157)	“ROSE RED”
-#FA9ED6	JACKET				RGB(250, 158, 214)	“LAVENDER ROSE RED”
-#9579CA		JACKET				RGB(149, 121, 202)	“TRUE VIOLET”
-#7FB7C1 	BELT				RGB(127, 183, 193) 	“GLACIER BLUE”
-#5C4899		SUIT				RGB(92, 72, 153)		“DAISY BUSH VIOLET”
-#FCECFF	BUCKLE				RGB(252, 236, 255)	“MAGNOLIA WHITE”
-#7B98EF		TIGHTS				RGB(123, 152, 239)	“CORNFLOWER BLUE”
-#9E10B6		BOOT				RGB(158, 16, 182)		“DARK VIOLET”
-
-
-SOURCES:
-
-https://www.color-blindness.com/color-name-hue/
-https://static.wikia.nocookie.net/logosrupaulsdragrace/images/8/8d/TrinityEpisode3LipSyncLook.jpg/revision/latest?cb=20210708010826
+#17002D   WIG        RGB(23, 0, 45)       “PRUSSIAN BLUE”
+#B42C85   LIP        RGB(180, 44, 133)    “MEDIUM RED VIOLET”
+#D39A9D   COLLAR     RGB(211, 154, 157)   “ROSE RED”
+#FA9ED6   JACKET     RGB(250, 158, 214)   “LAVENDER ROSE RED”
+#9579CA   JACKET     RGB(149, 121, 202)   “TRUE VIOLET”
+#7FB7C1   BELT       RGB(127, 183, 193)   “GLACIER BLUE”
+#5C4899   SUIT       RGB(92, 72, 153)     “DAISY BUSH VIOLET”
+#FCECFF   BUCKLE     RGB(252, 236, 255)   “MAGNOLIA WHITE”
+#7B98EF   TIGHTS     RGB(123, 152, 239)   “CORNFLOWER BLUE”
+#9E10B6   BOOT       RGB(158, 16, 182)    “DARK VIOLET”
 
 trinity_k_bonet <- c("#17002D", "#B42C85", "#D39A9D", "#FA9ED6", "#9579CA", "#7FB7C1", "#5C4899", "#FCECFF", "#7B98EF", "#9E10B6")
-
 
 ## Got the chop: 
   Silky Nutmeg Ganache
 
 ## Lip sync assassin:
   Laganja Estranja
-
 
 ------------------------------------------------------------------------------------
 
