@@ -9,9 +9,10 @@ I selected my favorite of the week based on: the top, the chop, the lipsynch ass
 serena_cha_cha <- c("#E13EB7", "#D22567", "#43669A", "#322881", "#529B97", "#F1BE89", "#D45040", "#6FBDD8", "#523E6A", "#BD8080")
 ra_jah_o_hara <- c("#1B1485", "#5265C2", "#698EBD", "#5B519A", "#6C4DAB", "#D085DF", "#620FCB", "#1B5963", "#DAED94", "#8E95AC")
 trinity_k_bonet <- c("#17002D", "#B42C85", "#D39A9D", "#FA9ED6", "#9579CA", "#7FB7C1", "#5C4899", "#FCECFF", "#7B98EF", "#9E10B6")
+yara_sofia <- c("#F1CCC0", "#A34353", "#E6C4B3", "#D84518", "#CF6036", "#DC2A28", "#E6A972", "#361D0F", "#E92305", "#1E0F06")
 
 
-rpdr_allstar_s6 <- c(serena_cha_cha, ra_jah_o_hara, trinity_k_bonet)
+rpdr_allstar_s6 <- c(serena_cha_cha, ra_jah_o_hara, trinity_k_bonet, yara_sofia)
 ```
 
 ------------------------------------------------------------------------------------
@@ -108,6 +109,19 @@ trinity_k_bonet <- c("#17002D", "#B42C85", "#D39A9D", "#FA9ED6", "#9579CA", "#7F
   
 ## Got the chop:
   Yara Sofia
+  
+#F1CCC0   WIG        RGB(241, 204, 192)   “WATUSI ORANGE”
+#A34353   LIP        RGB(163, 67, 83)     “NIGHTSHADZ RED”
+#E6C4B3   COLLAR     RGB(230, 196, 179)   “CAVERN PINK RED”
+#D84518   BODICE     RGB(216, 69, 24)     “HARLEY DAVIDSON ORANGE”
+#CF6036   SKIRT      RGB(207, 96, 54)     “CHILEAN FIRE ORANGE”
+#DC2A28   CAPE       RGB(220, 42, 40)     "ALIZARIN RED"
+#E6A972   WIG        RGB(230, 169, 114)   “CORVETTE ORANGE"
+#361D0F   EYE        RGB(54, 29, 15)      “SEAL BROWN"
+#E92305   FRINGE     RGB(233, 35, 5)      “SCARLET RED"
+#1E0F06   BODICE     RGB(30, 15, 6)       “BAKER'S CHOCOLATE"
+
+yara_sofia <- c("#F1CCC0", "#A34353", "#E6C4B3", "#D84518", "#CF6036", "#DC2A28", "#E6A972", "#361D0F", "#E92305", "#1E0F06")
   
 ## Lip Synch Assassin
   Jessica Wild
