@@ -112,6 +112,7 @@ trinity_k_bonet <- c("#17002D", "#B42C85", "#D39A9D", "#FA9ED6", "#9579CA", "#7F
 ## Lip Synch Assassin
   Jessica Wild
   
+  
 ------------------------------------------------------------------------------------
 
 #Episode 5
@@ -124,8 +125,19 @@ trinity_k_bonet <- c("#17002D", "#B42C85", "#D39A9D", "#FA9ED6", "#9579CA", "#7F
 
 ## Lip Synch Assassin
 
+------------------------------
+# Template
 
-
+#000000   xxxxxx     RGB(000, 000, 000)   “COLOR NAMEXXXXX”
+#000000   xxxxxx     RGB(000, 000, 000)   “COLOR NAMEXXXXX”
+#000000   xxxxxx     RGB(000, 000, 000)   “COLOR NAMEXXXXX”
+#000000   xxxxxx     RGB(000, 000, 000)   “COLOR NAMEXXXXX”
+#000000   xxxxxx     RGB(000, 000, 000)   “COLOR NAMEXXXXX”
+#000000   xxxxxx     RGB(000, 000, 000)   “COLOR NAMEXXXXX”
+#000000   xxxxxx     RGB(000, 000, 000)   “COLOR NAMEXXXXX”
+#000000   xxxxxx     RGB(000, 000, 000)   “COLOR NAMEXXXXX”
+#000000   xxxxxx     RGB(000, 000, 000)   “COLOR NAMEXXXXX”
+#000000   xxxxxx     RGB(000, 000, 000)   “COLOR NAMEXXXXX”
 
 sources:
 https://rupaulsdragrace.fandom.com/wiki/RuPaul%27s_Drag_Race_Wiki
