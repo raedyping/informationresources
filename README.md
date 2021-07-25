@@ -126,7 +126,7 @@ overview from rconf2020: <a href = https://www.slideshare.net/ClausWilke/spruce-
 <a href = https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html> make important parts of your plot stand out </a>
 
 ### ggstatsplot
-< a href = https://indrajeetpatil.github.io/ggstatsplot/>add stats details to your ggplots!</a>
+< a href = https://indrajeetpatil.github.io/ggstatsplot/> add stats details to your ggplots!</a>
 
 ### esquisse
 <a href = https://dreamrs.github.io/esquisse/>a drag and drop gui for fast ggplot</a> (also see ggplotgui)
@@ -144,20 +144,5 @@ overview from rconf2020: <a href = https://www.slideshare.net/ClausWilke/spruce-
 ### urban institute public school data
 <a href = https://www.urban.org/features/explore-your-schools-changing-demographics>explore your school's changing demographics</a>
 
-### johns hopkins cloud based data science courses
-<a href = https://leanpub.com/universities/set/jhu/cloud-based-data-science> pay what u can</a>
-
-### women in data science conference
-<a href = https://www.kaggle.com/c/widsdatathon2020/>wids datathon on kaggle</a>(due feb 24, and event is march 2 2020; chicago event is march 6)
-
-https://r4ds.had.co.nz/index.html
-https://rstats.wtf/save-source.html
-http://vita.had.co.nz/papers/layered-grammar.pdf
-http://had.co.nz/thesis/practical-tools-hadley-wickham.pdf
-
-https://rpubs.com/Reinhold/391027
-https://cran.r-project.org/web/packages/emmeans/vignettes/comparisons.html
-https://mongodb.com
-http://jenrichmond.rbind.io/post/how-to-use-the-here-package/
-
-https://www.datascienceatthecommandline.com/
+## OfficeR "officeverse" 
+https://ardata-fr.github.io/officeverse/
