@@ -84,6 +84,40 @@ overview from rconf2020: <a href = https://www.slideshare.net/ClausWilke/spruce-
 
 
 
+# Reporting
+
+## R Markdown
+
+ <a href=https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf> R markdown cheat sheet </a>  
+ <a href=https://bookdown.org/yihui/rmarkdown/> Rmarkdown total guide</a>  
+ <a href=https://yihui.name/knitr/options/KnitR> knitr options by yi jui</a>  
+ 
+### OfficeR "officeverse" 
+https://ardata-fr.github.io/officeverse/
+
+
+### Best typography / font resource, pay what you can
+<a href = https://practicaltypography.com/>Butterick's Practical Typography</a> (number one takeaway: buy a professional font and don't use the defaults)
+
+### adding interactive tutorial windows in your markdown
+<a href = https://desiree.rbind.io/post/2020/learnr-iframes/> these look amazing and there's also a very cute cute r tutorial by this developer</a>
+
+
+### usethis for reproducible reporting
+<a href = https://sharla.party/post/usethis-for-reporting/>i'm completely blown away by this</a>
+<a href = https://sharstudioconf.netlify.com/#1>don't repeat yourself, TALK TO YOURSELF</a>
+
+### the 'here' package
+<a href = https://malco.io/2018/11/05/why-should-i-use-the-here-package-when-i-m-already-using-projects/>why use here?</a>
+
+## 'flextable' package
+<a href = https://ardata-fr.github.io/flextable-book/> Using the flextable R package, by David Gohel </a>
+
+
+
+
+
+
 # Big Data
 
 ## Data Querying 
@@ -134,32 +168,6 @@ overview from rconf2020: <a href = https://www.slideshare.net/ClausWilke/spruce-
 
 
 
-
-# Reporting
-
-## R Markdown
-
- <a href=https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf> R markdown cheat sheet </a>  
- <a href=https://bookdown.org/yihui/rmarkdown/> Rmarkdown total guide</a>  
- <a href=https://yihui.name/knitr/options/KnitR> knitr options by yi jui</a>  
- 
-### OfficeR "officeverse" 
-https://ardata-fr.github.io/officeverse/
-
-
-### Best typography / font resource, pay what you can
-<a href = https://practicaltypography.com/>Butterick's Practical Typography</a> (number one takeaway: buy a professional font and don't use the defaults)
-
-### adding interactive tutorial windows in your markdown
-<a href = https://desiree.rbind.io/post/2020/learnr-iframes/> these look amazing and there's also a very cute cute r tutorial by this developer</a>
-
-
-### usethis for reproducible reporting
-<a href = https://sharla.party/post/usethis-for-reporting/>i'm completely blown away by this</a>
-<a href = https://sharstudioconf.netlify.com/#1>don't repeat yourself, TALK TO YOURSELF</a>
-
-### the 'here' package
-<a href = https://malco.io/2018/11/05/why-should-i-use-the-here-package-when-i-m-already-using-projects/>why use here?</a>
 
 
 
